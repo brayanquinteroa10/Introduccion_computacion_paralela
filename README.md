@@ -1,1 +1,1 @@
-# Introduccion_computacion_paralela
+# Introduccion a la computacion paralela
